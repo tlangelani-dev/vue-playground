@@ -1,4 +1,4 @@
-# vue-playground
+# Vue.js + Vuetify Playground
 
 > A Vue.js project
 
