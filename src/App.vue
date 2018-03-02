@@ -1,6 +1,10 @@
 <template>
     <v-app>
-        APP
+        <v-content>
+            <v-container fluid>
+                APP
+            </v-container>
+        </v-content>
     </v-app>
 </template>
 
